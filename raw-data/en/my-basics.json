@@ -1,0 +1,76 @@
+{
+  "myBasics": {
+    "addressesPage": {
+      "prompt": "Where do you live?",
+      "explanation": "Example: 1234 Main St., Los Angeles, CA 90017",
+      "streetAddressLabel": "Street address",
+      "apartmentLabel": "Apartment or unit number",
+      "cityLabel": "City",
+      "stateLabel": "State",
+      "zipLabel": "Zip code",
+      "mailingAddressSamePrompt": "Do you get mail at this address?",
+      "mailingAddressSameExplanation": {
+        "license": "The DMV will print your mailing address on your Driver License. Your Driver License will also be sent to your mailing address.",
+        "ID": "The DMV will print your mailing address on your ID. Your ID will also be sent to your mailing address.",
+        "cards": "The DMV will print your mailing address on your cards. Your cards will also be sent to your mailing address."
+      },
+      "mailingAddressPrompt": "Where do you receive mail?",
+      "mailingAddressExplanation": "Example: PO Box 901, Los Angeles, CA 90017"
+    },
+    "traitsPage": {
+      "sex": {
+        "prompt": "What is your sex?",
+        "values": [
+          "Male", "Female"
+        ]
+      },
+      "eyeColor": {
+        "prompt": "What color are your eyes?",
+        "values": [
+          "Black",
+          "Blue",
+          "Brown",
+          "Gray",
+          "Green",
+          "Hazel"
+        ]
+      },
+      "hairColor": {
+        "prompt": "What color is your hair?",
+        "values": [
+          "Auburn",
+          "Bald",
+          "Black",
+          "Blonde",
+          "Brown",
+          "Gray",
+          "Red",
+          "White",
+          "Other"
+        ]
+      }
+    },
+    "heightWeightPage": {
+      "height": {
+        "prompt": "How tall are you?",
+        "explanation": "Example: 5 feet 9 inches",
+        "feetLabel": "Feet",
+        "inchesLabel": "Inches"
+      },
+      "weight": {
+        "prompt": "How much do you weigh?",
+        "explanation": "Example: 190 pounds",
+        "poundsLabel": "Pounds"
+      }
+    },
+    "socialSecurityPage": {
+      "prompt": "Do you have a Social Security Number?",
+      "explanation": "If you have a Social Security Number you must select Yes.",
+      "messageNo": "By answering <em>No</em>, you confirm that a Social Security Number has never been issued to you and you are not presently eligible for a Social Security Number. You understand that pursuant to California Vehicle Code §12801, you must provide your Social Security Number to the Department of Motor Vehicles when one is assigned to you. \n\n Read the disclaimer for more information.",
+      "enterSocialNumber": {
+        "prompt": "What's your Social Security Number?",
+        "explanation": "Example: 123 - 45 - 6789"
+      }
+    }
+  }
+}

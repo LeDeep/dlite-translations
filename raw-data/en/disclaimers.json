@@ -1,0 +1,74 @@
+{
+  "medical": {
+    "title": "Medical information",
+    "body": "The following conditions that may a ect your ability to operate a motor vehicle safely include, but are not limited to: loss of consciousness; episode of marked confusion caused by any condition which may bring about recurring lapses; disease, disorder, or disability (examples of these are epilepsy, diabetes, stroke, cataracts, Parkinson’s disease); decrease or change in your vision due to cataracts, macular degeneration, diabetic retinopathy, glaucoma, retinitis pigmentosa, or other progressive condition; health problems because of alcohol or drug abuse."
+  },
+  "veteran": {
+    "title": "Veteran statement",
+    "body": "By marking the veteran box on this application, I certify that I am a veteran of the United States Armed Forces and that I want to receive veteran benefits information from the California Department of Veterans A airs (CalVet). By marking the veteran box on this application, I also consent to DMV transmitting my name and mailing address to CalVet for this purpose only, and I certify that I have been notified that this transmittal will occur."
+  },
+  "organDonation": {
+    "title": "Organ donation statement",
+    "body": "If you marked ‘Yes’ to register as an organ and tissue donor, you are legally authorizing the recovery of organs and tissues in the event of your death. Registering as a donor will not a ect your medical treatment in any way. As outlined in the California Anatomical Gift Act, your authorization is legally binding and, unless the donor is under 18 years of age, your decision does not require the consent of any other person. For registered donors under 18 years of age, the legal guardian shall make the  nal donation decision. You may limit your donation to speci c organs or tissues, place usage restrictions (for example transplantation or research), obtain more information about donation, or remove your name from the registry on the website of Donate Life California: www.donateLIFEcalifornia.org. By registering as an Organ Donor, you are giving your consent to allow DMV to electronically transmit your true full name, residence or mailing address, year of birth, and California driver license or identi cation card number to Donate Life California. By signing this form, you consent to this process and have been notified that this transmittal will occur."
+  },
+  "voterRegistration": {
+    "title": "Voter registration",
+    "bodyBullets": [
+      "If sharing your address could put you in life-threatening danger, you may be eligible to register to vote confidentially. For more information, contact the Safe at Home program at (877) 322-5227 or visit <a href='www.sos.ca.gov/safeathome/'>www.sos.ca.gov/safeathome/</a>.",
+      "For U.S. citizens only. If you indicate that you are eligible to vote, the DMV will send all of the voter registration information collected on this form, including your digital signature, to the Secretary of State. The o ce where you registered will remain con dential and will be used only for voter registration purposes.",
+      "If you are eligible to vote and decline to register to vote, your decision will remain con dential; however this information will be sent to the Secretary of State to be used only for voter outreach and registration purposes.",
+      "Voter registration information provided on this application is con dential. The DMV does not make voter eligibility determinations.",
+      "If you have not received voter registration information within 30 days of registering, contact your county elections o cial or the Secretary of State.",
+      "Please visit <a href='voterstatus.sos.ca.gov/'>voterstatus.sos.ca.gov/</a> for more information about your voter registration or <a href='www.sos.ca.gov'>www.sos.ca.gov</a> for general information."
+    ]
+  },
+  "criminalProsecution": {
+    "title": "Criminal prosecution",
+    "bodyBullets": [
+      "If you submit fraudulent information, the DMV may pursue criminal prosecution.",
+      "Any person who uses false documents to conceal their true citizenship or resident alien status is guilty of a felony pursuant to California Penal Code §114."
+    ]
+  },
+  "financialResponsibility": {
+    "title": "Financial responsibility",
+    "bodyBullets": [
+      "Financial responsibility (commonly known as insurance) is required on all vehicles operated or parked on California roadways. You must carry evidence of financial responsibility in your vehicle at all times and it must be provided when: requested by law enforcement, renewing vehicle registration, the vehicle is involved in a traffic collision.",
+      "If you cannot afford liability insurance, you may be eligible for the California Low Cost Automobile Insurance Program. Additional information is available at <a href='www.mylowcostauto.com'>www.mylowcostauto.com</a> or by calling (866) 602-8861."
+    ]
+  },
+  "paymentRefunds": {
+    "title": "Payments / Refunds",
+    "bodyBullets": [
+      "Visit <a href='www.dmv.ca.gov'>www.dmv.ca.gov</a> to review payment options at your local DMV field office. If you are mailing your renewal, payment must be by check. (Checks should be payable to DMV).",
+      "Once this application form and fee have been submitted, no refunds will be made."
+    ]
+  },
+  "privacy": {
+    "title": "Privacy notice",
+    "bodyBullets": [
+      "DMV uses the information on this form to determine your eligibility for a Driver License or Identification Card and for the administration of driver license laws.",
+      "Information provided to DMV on this form is collected and subject to the limitations in the Information Practices Act (Civil Code 1798 et seq.), the Driver’s Privacy Protection Act (18 U.S.C. 2721-2725), the California Vehicle Code (CVC) and other applicable state and federal laws and regulations.",
+      "DMV verifies the information and documents you provide with other governmental agencies.",
+      "All information on this form is mandatory except where noted. DMV may deny your application for not providing the required information. Failure to provide the information required on this form is cause for refusal to issue a driver license or identi cation card, or, in some cases, cancellation or withdrawal of the driving privilege.",
+      "DMV shares your information with other governmental agencies, law enforcement, and commercial entities as authorized by law. You may obtain a copy of your record at <a href='www.dmv.ca.gov'>www.dmv.ca.gov</a> or at any DMV field office during regular office hours. For assistance with access to your record, call (800) 777-0133 or make an appointment to visit a DMV field office during regular business hours. For assistance with corrections to your record, contact DMV’s Licensing Operations Division Mandatory Actions Unit at (916) 657-6525.",
+      "Questions regarding your Driver License or Identification Card should be addressed to: Driver License Inquiries, Department of Motor Vehicles, PO Box 942890, Sacramento, CA 94290-0001.",
+      "For more information regarding specific CVC Sections or how DMV shares your information, please visit <a href='www.dmv.ca.gov'>www.dmv.ca.gov</a>. You may also request a copy of How Your DMV Information is Shared (FFDMV 17) Fast Facts brochure from any field office.",
+      "DMV’s Privacy Policy is located at <a href='www.dmv.ca.gov'>www.dmv.ca.gov</a> under the 'Privacy Policy' link at the bottom of the page.",
+      "Questions regarding this notice should be addressed to: Department of Motor Vehicles, ATTN: Chief Privacy Officer – MS F127, PO Box 932328, Sacramento, CA 94232-3280."
+    ]
+  },
+  "certifications": {
+    "title": "Certifications",
+    "bodyBullets": [
+      "I agree to submit to a chemical test of my blood, breath, or urine for the purpose of determining the alcohol or drug content of my blood when testing is requested by a peace o cer acting in accordance with California Vehicle Code (CVC) §23612.",
+      "I am hereby advised that being under the in uence of alcohol or drugs, or both, impairs the ability to safely operate a motor vehicle. Therefore, it is extremely dangerous to human life to drive while under the in uence of alcohol or drugs, or both. If I drive while under the in uence of alcohol or drugs, or both, and as a result, a person is killed, I can be charged with murder.",
+      "By signing this application, I certify that I was notified that if I am under 21 years of age, I cannot legally drive with a blood alcohol concentration (BAC) of 0.01% or more. Driving with a BAC of 0.01% or more, or refusing to take, or failing to complete an alcohol screening or drug test, results in a one-year suspension of my driving privilege.",
+      "By signing this application, I certify that I was notified that if I am currently on court probation for a driving under the in uence o ense, I cannot legally drive with a BAC of 0.01% or more. Driving with a BAC of 0.01% or more results in a one-year suspension of my driving privilege. Refusing to take, or failing to complete an alcohol screening or chemical test will result in a two to three year suspension/revocation of my driving privilege.",
+      "I am the person whose name appears on the front of this form. The mailing address shown is valid, existing, and accurate. I agree to accept service of process at this mailing address according to §§415.20(b), 415.30(a), and 416.90 of the California Code of Civil Procedure.",
+      "I understand DMV may add traffic convictions reported by other states or jurisdictions to my driving record that may result in sanctions against my California driving privilege.",
+      "By signing this form, I am acknowledging my presence in the United States is authorized under federal law, except as speci ed in CVC §12801.",
+      "I understand I may have no more than one driver license in my possession or under my control in accordance with CVC §12511.",
+      "By signing this application, I certify that I understand traffic signs and signals in accordance with CVC §12800(h)."
+    ]
+  }
+}

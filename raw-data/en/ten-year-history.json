@@ -1,0 +1,34 @@
+{
+  "tenYearHistoryPage": {
+    "prompt": "Have you ever been issued a driver license <em>outside</em> of California in the past ten years?",
+    "explanation": "This could be under the same or a different name, and to operate any type of motor vehicle.",
+    "fillOutHistoryVia": {
+      "prompt": "We need you to provide your driver license history for the past 10 years.",
+      "explanation": "How would you like to complete your 10 Year History Form?",
+      "answerOnline": "Online",
+      "answerPrint": "Print from home",
+      "answerField": "Get at a DMV field office"
+    },
+    "onlineForm": {
+      "prompt": "Please tell us about your previous license.",
+      "numberLabel": "Driver license number",
+      "stateCountryLabel": "Issued in",
+      "expirationLabel": "Expiration date"
+    },
+    "personalInformationSameQuestion": {
+      "prompt": "Is your personal information on this license the same as what is shown below?",
+      "yesAnswer": "Yes, it's the same",
+      "noAnswer": "No, it’s different"
+    },
+    "personalInformationIsDifferent": {
+      "prompt": "What is your personal information as it was shown on this driver license?"
+    },
+    "additionalLicenses": {
+      "prompt": "Have you had additional driver licenses issued outside of California?",
+      "explanation": "This could be under the same or a different name, and to operate any type of motor vehicle."
+    },
+    "listOfLicenses": {
+      "prompt": "Below is a list of your licenses."
+    }
+  }
+}

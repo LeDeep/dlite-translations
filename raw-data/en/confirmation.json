@@ -1,0 +1,26 @@
+{
+  "confirmationPage": {
+    "header": "Confirmation",
+    "subHeader": "We've received your information.",
+    "confirmationCode": "Your confirmation code is:",
+    "nextSteps": {
+      "title": "Here's what happens next:",
+      "steps": [
+        "You will get this confirmation code emailed to you.",
+        "You need to go to your local DMV office to finalize your application.",
+        "Prepare for your visit by collecting the required documents and studying for your knowledge test(s). <a href='/apply/appointment-preparation'>We’ve created a custom preparation list</a> based on the information you provided in your application.",
+        "At the DMV field office, show the employee your confirmation number and documents. They will bring up your application.",
+        "You will be asked to verify your information. You will then certify that it's correct during your DMV field office visit."
+      ]
+    },
+    "registrationCompleteAtOffice": "As a reminder, your voter registration application will be processed when you complete your application at the DMV field office.",
+    "checkVoterStatus": "Check your status: <a href='voterstatus.sos.ca.gov'>voterstatus.sos.ca.gov</a>.",
+    "registerSooner": "If you need to register to vote before your DMV visit: You can register online at RegisterToVote.ca.gov.",
+    "register30days": "If you would like to vote in the next statewide election register online now at RegisterToVote.ca.gov.",
+    "avoidLines": "To avoid long waits and lines, make an appointment at your local DMV now.",
+    "makeAnAppointment": "Make an appointment"
+  },
+  "confirmationCDL": {
+    "commercialLearnersPermit": "Should you pass your knowledge tests and fulfill all other requirements, you will be issued a Commercial Learner's Permit (CLP). There is a mandatory waiting period of 14 days between when your CLP is issued and when you will become eligible to receive a temporary Commercial Driver License."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "organDonation": {
+    "title": "Organ Donation",
+    "organDonor": {
+      "prompt": "Do you wish to be an organ or tissue donor?",
+      "validationMessage": "You must mark Yes to maintain the donor dot on your driver license.",
+      "messageYes": "Answering Yes adds your name to the Donate Life California Organ and Tissue Donor Registry, and a pink “donor” dot will appear on your DL/ID card.",
+      "messageNo": "Answering No will not remove your name from the registry. If you wish to remove your name from the registry, you must contact Donate Life California. DMV can remove the pink dot from your DL/ID card, but cannot remove you from the registry."
+    },
+    "monetaryContribution": {
+      "prompt": "Would you like to make a voluntary contribution of $2?",
+      "messageYes": "Thank you for your donation! We will add this $2 to your total fee."
+    }
+  }
+}

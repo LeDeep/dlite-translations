@@ -1,0 +1,54 @@
+{
+  "myHistory": {
+    "medicalConditionsPage": {
+      "pagePrompt": "Have you had any medical conditions in the last three years that affected your ability to drive?",
+      "explanationPrompt": "Please explain below."
+    },
+    "cardHistoryPage": {
+      "pagePromptLicense": "Have you ever had a driver license or state-issued ID card?",
+      "pagePromptID": "Have you ever had a California driver license or ID card?",
+      "explanation": "The license or ID card must be issued by a U.S. state or another country.",
+      "explanationPrompt": "Please tell us about your most recent driver license or ID card, even if it's expired.",
+      "numberLabel": "Driver license or ID card number",
+      "stateOrCountryLabel": "Driver license or ID card number",
+      "expirationDateLabel": "Expiration Date"
+    },
+    "nameHistoryPage": {
+      "pagePrompt": "Have you ever applied for a Driver License or ID card under a different name?",
+      "explanationPrompt": "Please list all previous legal names.",
+      "helpText": "For example, include your maiden name. \n\n Separate by commas."
+    },
+    "licenseIssuesPage": {
+      "pagePrompt": "Have you ever had your driving privilege cancelled, refused, suspended, or revoked?",
+      "explanationPrompt": "When did this happen?",
+      "helpText": "Example: 03/21/1967",
+      "reasonLabel": "What was the reason?"
+    },
+
+    "veteransPage": {
+      "pagePrompt": "Have you ever served in the United States Military?",
+      "explanationStart": "As a veteran, you may be eligible for benefits like disability compensation.",
+      "licensExplanation": "Your Driver License can also display the word \"Veteran\".",
+      "idExplanation": "Your ID can also display the word \"Veteran\".",
+      "cardsExplanation": "Your cards can also display the word \"Veteran\".",
+      "messageYes": "Thank you for your service.",
+      "benefitsPrompt": "Would you like to receive benefits information for which you may be eligible?",
+      "newDesignation": {
+        "prompt": "Would you like to add the word “Veteran” on your {card type} for a $5 fee?",
+        "explanation": "Many organizations give discounts to veterans with a valid ID.",
+        "messageYes": "OK, we will add the $5 to your total fee. You will need to complete the Veteran Status Verification Form from your county’s Veteran Service Office and bring it to a DMV field office."
+      },
+      "historicDesignationPrompt": "Have you ever had the word \"Veteran\" on a license or state-issued ID card?",
+      "existingDesignation": {
+        "promptLicense": "Is \"Veteran\" printed on your Driver License?",
+        "promptID": "Is \"Veteran\" printed on your ID?",
+        "promptCards": "Is \"Veteran\" printed on your cards?"
+      },
+      "keepDesignationPrompt": {
+        "licence": "Would you like to keep \"Veteran\" on your Driver License?",
+        "id": "Would you like to keep \"Veteran\" on your ID?",
+        "cards": "Would you like to keep \"Veteran\" on your cards?"
+      }
+    }
+  }
+}

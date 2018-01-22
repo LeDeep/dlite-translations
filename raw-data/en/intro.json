@@ -1,0 +1,249 @@
+{
+  "intro": {
+    "switchLanguagePage": {
+      "prompt": "Please select a language to use for this application.",
+      "values": [
+        "English",
+        "Chinese",
+        "Japanese",
+        "Spanish",
+        "Thai",
+        "Tagalog",
+        "Korean",
+        "Khmer",
+        "Hindi",
+        "Vietnamese"
+      ]
+    },
+    "namePage": {
+      "prompt": "What's your true full name?",
+      "explanation": "This is the name that appears on official identity documents like your birth certificate and passport.",
+      "suffixLabel": "Suffix",
+      "suffixValues": [
+        "Sr.",
+        "Jr.",
+        "I",
+        "II",
+        "III"
+      ]
+    },
+    "dateOfBirthPage": {
+      "prompt": "What’s your date of birth?",
+      "explanation": "Example: 09 / 15 / 1970."
+    },
+    "wdywtdtPage": {
+      "prePrompt": "Thank you.",
+      "prompt": "What would you like to do today?",
+      "explanation": "Pick one option for now. You can add another option later in the application.",
+      "values": [
+        "Get a card for the first time",
+        "Renew a card",
+        "Correct or update a card",
+        "Replace a card"
+      ]
+    },
+    "realIdPage": {
+      "prompt": {
+        "id": "Do you plan on using your ID to fly?",
+        "license": "Do you plan on using your Driver License to fly?",
+        "card": "Do you plan on using your card to fly?"
+      },
+      "explanation": "As of October 1, 2020, you will need a REAL ID compliant driver license or ID card to fly <b>within</b> the United States.",
+      "FAQ-whatIsRealID": {
+        "title": "What's a REAL ID compliant card?",
+        "body": "To meet the REAL ID Act, the California DMV will offer two types of cards: a REAL ID compliant card and a federal non-compliant card. Both a REAL ID compliant and a federal non-compliant driver license allow you to legally drive. \n\n You need a REAL ID compliant card in order to fly within the U.S or to enter military bases and most federal facilities starting October 1, 2020. \n\n Otherwise, you will need a passport or other document accepted by the Transportation Security Administration and the Department of Homeland Security."
+      },
+      "FAQ-whatRequiredForRealID": {
+        "title": "What's required to get a REAL ID compliant card?",
+        "body": {
+          "header": "You will need <b>1</b> of the following:",
+          "items": [
+            "Valid, unexpired U.S. passport or passport card",
+            "U.S. Certificate or Consular Report of Birth Abroad",
+            "Unexpired foreign passport with valid U.S. visa and approved I-94 form",
+            "Certified copy of Birth certificate from a U.S. Territory",
+            "Certificate of Naturalization or Citizenship",
+            "Valid, unexpired Permanent Resident Card",
+            "Unexpired employment authorization document (EAD) Card (I-766) or valid/expired EAD Card with Notice of Action (I-797 C)"
+          ],
+          "otherRequirements": "You also need one document that proves you live in California and one document with your Social Security Number such as your Social Security card or Internal Revenue Service form (e.g., W2, 1099, or 1040)."
+        }
+      }
+    },
+    "chooseSelectionPage": {
+      "prompt": {
+        "new": "What would you like?",
+        "renew": "What type of card are you renewing?",
+        "replace": "What type of card are you replacing?",
+        "correctOrUpdate": "What type of card are you correcting or updating?"
+      },
+      "explanationMultiCard": "Select all that apply.",
+      "values": [
+        "ID",
+        "Driver License"
+      ]
+    },
+    "seniorIdPage": {
+      "prompt": "Would you like to get a free Senior Identification Card",
+      "explanation": "If you do not want \"Senior Identification Card\", you will have to pay the normal fee."
+    },
+    "reducedFeePage": {
+      "prompt": "Are you applying for a reduced fee or free ID?",
+      "licenseExplanation": "This only applies to your ID Card. You cannot get a free or reduced fee driver license.",
+      "rightFormsSection": {
+        "prompt": "Do you have the right form?",
+        "explanation": "In order to get a reduced fee ID you need to have the Reduced Fee Identification Card Eligibility Verification form (DL 937). To get a free ID you need to have No Fee Identification Card Eligibility Verification (DL 933) form.",
+        "FAQ-howToGetForms": {
+          "title": "How do I get these forms?",
+          "body": "The DMV does not provide these forms. If you get assistance through the government or a non-profit, speak with them about getting a form."
+        }
+      }
+    },
+    "licenseTypePage": {
+      "prompt": "What do you need to drive?",
+      "explanation": "Select all that apply",
+      "values": [
+        {
+          "label": "Car",
+          "helpText": "Class C"
+        },
+        {
+          "label": "Motorcycle or scooter",
+          "helpText": "Class M"
+        },
+        {
+          "label": "Housecar, 5th wheel over 15000 pounds, or livestock trailer",
+          "helpText": "Class A"
+        },
+        {
+          "label": "Housecar or trailer",
+          "helpText": "Class B"
+        }
+      ],
+      "endorsementsSection": {
+        "prompt": "Do you need a firefighter endorsement?",
+        "explanation": "If you only want an ambulance certificate, please visit a DMV field office."
+      }
+    },
+    "getStartedPage": {
+      "title": "To review:",
+      "whatYouAreDoing": {
+        "applyingLicense": "You are applying for a Driver License",
+        "applyingID": "You are applying for an ID card",
+        "applyingReducedFeeID": "You are applying for a reduced-fee ID card",
+        "applyingSeniorID": "You are applying for a senior ID card",
+
+        "renewingLicense": "You are renewing a Driver License",
+        "renewingID": "You are renewing an ID card",
+        "renewingReducedFeeID": "You are renewing a reduced-fee ID card",
+        "renewingSeniorID": "You are applying a senior ID card",
+
+        "replacingLicense": "You are replacing a Driver License",
+        "replacingID": "You are replacing an ID card",
+        "replacingReducedFeeID": "You are replacing a reduced-fee ID card",
+        "replacingSeniorID": "You are applying a senior ID card",
+
+        "correctingLicense": "You are correcting a Driver License",
+        "correctingID": "You are correcting an ID card",
+        "correctingReducedFeeID": "You are correcting a reduced-fee ID card",
+        "correctingSeniorID": "You are applying a senior ID card",
+
+        "updatingLicense": "You are updating a Driver License",
+        "updatingID": "You are updating an ID card",
+        "updatingReducedFeeID": "You are updating a reduced-fee ID card",
+        "updatingSeniorID": "You are applying a senior ID card",
+
+        "toDrive": "To drive:",
+        "classes": {
+          "C": "Car (Class C)",
+          "M": "Motorcycle (Class M)",
+          "A": "Housecar, 5th wheel over 15000 pounds, or livestock trailer (Class A)",
+          "B": "Housecar or trailer (Class B)"
+        },
+
+        "firefighterEndorsement": "You need a firefighter endorsement.",
+
+        "realIDCompliantID": "Your ID card will be REAL ID Compliant.",
+        "realIDCompliantLicense": "Your driver license will be REAL ID Compliant."
+      },
+      "explanation": {
+        "update": {
+          "license": "In order to update your driver license, you’re going to need to fill out a new application.",
+          "id": "In order to update your ID card, you’re going to need to fill out a new application."
+        },
+        "correct": {
+          "license": "In order to correct your driver license, you’re going to need to fill out a new application.",
+          "id": "In order to correct your ID card, you’re going to need to fill out a new application."
+        },
+        "replace": {
+          "license": "In order to replace your driver license, you’re going to need to fill out a new application.",
+          "id": "In order to replace your ID card, you’re going to need to fill out a new application."
+        }
+      },
+      "listHeader": "This application has four sections:",
+      "listItems": [
+        "My basics",
+        "My history",
+        "Organ donation",
+        "Voter registration"
+      ],
+      "timeToComplete": "It takes around <b>10 minutes</b> to complete.",
+      "afterComplete": "Once you’re done, you will need to visit your local DMV office.",
+      "buttonText": "Start"
+    },
+    "currentCardPage": {
+      "prompt": "If you know it, please enter your California DL/ID card number.",
+      "explanation": "Your number can be found at the top of your DL/ID card starting with a letter.",
+      "numberLabel": "DL/ID card number"
+    },
+    "correctOrUpdatePage": {
+      "prompt": "What would you like to do?",
+      "values": [
+        "Correct",
+        "Update"
+      ],
+      "chooseChangeSection": {
+        "prompt": {
+          "update": "What would you like to update?",
+          "correct": "What would you like to correct?"
+        },
+        "values": [
+          "Name",
+          "Sex",
+          "Date of birth",
+          "Address",
+          "Something else"
+        ],
+        "license": {
+          "explanation": "You may need to pay a fee for a new Driver License with these updates.",
+          "values": [
+            "What you can drive",
+            "Endorsements on your license",
+            "Add or remove a restriction"
+          ]
+        },
+        "id": {
+          "explanation": "You may need to pay a fee for a new ID with these updates."
+        }
+      }
+    },
+    "replacementReasonPage": {
+      "prompt": "Why do you need to replace your card?",
+      "explanation": "Your answer will help DMV employees better assist you.",
+      "values": [
+        "It was lost or stolen.",
+        "It was damaged.",
+        "Other"
+      ]
+    },
+    "youthDlNotificationPage": {
+      "prompt": "You must be 15.5 years old to get a learners permit.",
+      "explanation": "If you go to a DMV office sooner to complete your application, you can only apply for a Junior permit. These permits are issued only in exceptional circumstances.",
+      "question": "Would you like to get a California ID card instead?",
+      "cantApplyYet": {
+        "prompt": "Because you’re under 15 years old, you can’t apply for a driver license. Would you like to get a California ID card instead?",
+        "infoMessage": "OK, please come back when you turn 14 years old."
+      }
+    }
+  }
+}

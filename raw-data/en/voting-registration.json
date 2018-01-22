@@ -1,0 +1,115 @@
+{
+  "votingRegistration": {
+    "shared": {
+      "declineToAnswerInformationRegistration": "If you select <em>Decline to answer</em>, you will not be registered to vote.",
+      "declineToAnswerInformationPreRegistration": "If you select <em>Decline to answer</em>, you will not be pre-registered to vote."
+    },
+    "introductionPage": {
+      "citizenOnlyDisclaimer": "US Citizens Only",
+      "pagePrompt": "Voter Registration",
+      "explanation": "Under state law, eligible citizens will be registered to vote unless they choose not to in this section. \n\n If you’re already registered to vote, this service helps make sure your information is up to date. \n\n If you need to register to vote before your DMV visit, you can register online at <a href='RegisterToVote.ca.gov'>RegisterToVote.ca.gov</a>.",
+      "timeItWillTake": "This section takes most customers \n\n 3 minutes"
+    },
+    "citizenshipPage": {
+      "pagePrompt": "Are you a United States citizen?",
+      "faqQuestion-whatIfNotCitizen": "What if I’m not a citizen?",
+      "faqAnswer-whatIfNotCitizen": "If you are not a U.S. citizen, you are not eligible to register to vote."
+    },
+    "eligibilityPage": {
+      "pagePrompt": "Do you meet ALL of the voter registration requirements listed below?",
+      "usCitizenshipStatement": "I am a United States citizen",
+      "caCitizenshipStatement": "I am a resident of California",
+      "ageStatement": "I am at least 18 years old",
+      "convictionStatement": "I am not currently in state or federal prison or on parole for the conviction of a felony",
+      "mentalCompetenceStatement": "I am not currently found mentally incompetent to vote by a court",
+      "faqQuestion-whatIfDontMeetRequirements": "What if I don’t meet all the requirements?",
+      "faqAnswer-whatIfDontMeetRequirements": "If you don’t meet all the requirements, you are not eligible to register to vote."
+    },
+    "optOutPage": {
+      "pagePrompt": "Which best describes you?",
+      "answer-new-registration": "I want to register to vote.",
+      "anwser-update-registration": "I am registered to vote and want to update my voter registration information.",
+      "anwser-opt-out": "I do not want to register to vote or update my voter registration information."
+    },
+    "preRegIntroductionPage": {
+      "pagePrompt": "Voter Pre-registration",
+      "explanation": "Under state law, eligible citizens will be pre-registered to vote unless they choose not to in this section. \n\n If you’re 16 or 17, you can pre-register today. Once you turn 18, you’re automatically registered to vote."
+    },
+    "preRegCitizenshipPage": {
+      "faqAnswer-whatIfNotCitizen": "If you are not a U.S. citizen, you are not eligible to pre-register to vote."
+    },
+    "preRegEligibilityPage": {
+      "ageStatement": "I am at least 16 or 17 years old",
+      "faqQuestion-howDoesPreRegWork": "How does pre-registering to vote work?",
+      "faqAnswer-howDoesPreRegWork": "To pre-register to vote in California, you must be 16 or 17 years old and meet all of the other eligibility requirements to vote. You will automatically be registered to vote on your 18th birthday."
+    },
+    "preRegOptOutPage": {
+      "answer-new-registration": "I want to pre-register to vote.",
+      "anwser-update-registration": "I am pre-registered to vote and want to update my voter pre-registration information.",
+      "anwser-opt-out": "I do not want to pre-register to vote or update my voter pre-registration information."
+    },
+    "preferencesIntoPage": {
+      "pagePrompt": "Next you will choose your voter preferences.",
+      "partyHeadline": "Political party",
+      "partyExplanation": "Choose your political party preference.",
+      "languageHeadline": "Language",
+      "languageExplanation": "Choose a language for your election materials.",
+      "byMailHeadline": "Vote by mail",
+      "byMailExplanation": "Receive your ballot in the mail for all future elections, meaning you don’t have to go to a polling place to vote.",
+      "contactInfoHeadline": "Contact information",
+      "contactInfoExplanation": "Provide your contact information if you want election officials to contact you about election and voter information."
+    },
+    "choosePartyPage": {
+      "pagePrompt": "Would you like to choose a political party preference?",
+      "explanation": "If you do not choose a political party, you may not be able to vote for some parties’ candidates at a primary election for US President or central committee.",
+      "answer-no": "I do not wish to choose a political party",
+      "choosePrompt": "Please select a party below.",
+      "answer-american-independent": "American Independent Party",
+      "answer-libertarian-party": "Libertarian Party",
+      "answer-democratic-party": "Democratic Party",
+      "answer-green-party": "Green Party",
+      "answer-peace-and-freedom-party": "Peace and Freedom Party",
+      "answer-republican-party": "Republican Party",
+      "answer-other": "Other"
+    },
+    "chooseLanguagePage": {
+      "pagePrompt": "Choose a language for your election materials.",
+      "answer-japanese": "Japanese",
+      "answer-chinese": "Chinese",
+      "answer-english": "English",
+      "answer-spanish": "Spanish",
+      "answer-tagalog": "Tagalog",
+      "answer-thai": "Thai",
+      "answer-korean": "Korean",
+      "answer-hindi": "Hindi",
+      "answer-khmer": "Khmer",
+      "answer-vietnamese": "Vietnamese"
+    },
+    "byMailPage": {
+      "pagePrompt": "Would you like to get your ballot by mail before each election?",
+      "explanation": "If you answer Yes, you can still vote in-person."
+    },
+    "contactInfoPage": {
+      "pagePrompt": "Would you like to receive election information via email or text?",
+      "formPrompt": "Please enter your information below.",
+      "emailLabel": "Email address",
+      "phoneLabel": "Phone number",
+      "emailExample": "Example: name@company.com",
+      "phoneExample": "Example: 987 654 3210"
+    },
+    "confirmation": {
+      "pagePrompt": "Thank you, your voter registration application will be processed when you complete your business at the DMV.",
+      "explanation": "If you do not receive a voter notification card within four weeks after your visit to the DMV, contact your county elections official. \n\n You can check your voter registration status with the California Secretary of State at <a href='voterstatus.sos.ca.gov'>voterstatus.sos.ca.gov</a>."
+    },
+    "preferencesUpdateIntoPage": {
+      "pagePrompt": "Next we’d like to quickly make sure your voter registration is up to date.",
+      "explanation": "This will replace your previous voter preferences."
+    },
+    "updateChoosePartyPage": {
+      "explanation": "If you do not choose a political party, you may not be able to vote for some parties’ candidates at a primary election for US President or central committee. \n\n This will overwrite your previous political party preference."
+    },
+    "updateContactInfoPage": {
+      "explanation": "Answering No will also remove any previous contact information."
+    }
+  }
+}
