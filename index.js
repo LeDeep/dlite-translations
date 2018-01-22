@@ -30,4 +30,12 @@ const aggregateDir = (dirName) => {
   );
 };
 
-aggregateDir();
+const aggregateAll = () => {
+  fs.readdirSync(RAW_DIR).forEach((dirName) => {
+    try {
+      aggregateDir(dirName);
+    } catch(e) { /* no-op */ }
+  });
+};
+
+aggregateAll();
