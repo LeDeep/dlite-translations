@@ -1,0 +1,22 @@
+{
+  "name": "dlite-translations",
+  "version": "1.0.0",
+  "description": "JSON translations files for the dlite web application, plus code to aggregate them",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stateofca/dlite-translations.git"
+  },
+  "keywords": [
+    "internationalization"
+  ],
+  "author": "Kane Baccigalupi, State of California",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stateofca/dlite-translations/issues"
+  },
+  "homepage": "https://github.com/stateofca/dlite-translations#readme"
+}
