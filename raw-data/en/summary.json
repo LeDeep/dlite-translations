@@ -3,85 +3,85 @@
     "buttons": {
       "edit": "Edit",
       "submit": "Submit"
-    }
-  },
-  "whatImDoing": {
-    "starter": "I am",
-    "applying": "Applying for the first time",
-    "renewing": "Renewing",
-    "updating": "Updating",
-    "correcting": "Correcting",
-    "replacing": "Replacing",
-    "nothing": "No application started"
-  },
-  "shared": {
-    "expirationDate": "Expiration date"
-  },
-  "prompt": "Please take a minute to review your answers.",
-  "myID": {
-    "title": "My ID",
-    "reducedFeeHeading": "Reduced or no-fee",
-    "seniorIDHeading": "Senior ID",
-    "realIDHeading": "Real ID",
-    "currentCard": "ID card number"
-  },
-  "myDL": {
-    "title": "My Driver License",
-    "needToDriver": {
-      "header": "Need to drive",
-      "values": [
-        "Car (Class C)",
-        "Motorcycle (Class M)",
-        "Housecar, 5th wheel over 15000 pounds, or livestock trailer (Class A)",
-        "Housecar or trailer (Class B)"
-      ]
     },
-    "firefighterEndorsement": "Firefighter endorsement",
-    "currentCard": "Driver license number"
-  },
-  "myBasics": {
-    "title": "My basics",
-    "homeAddress": "Home address",
-    "mailingAddress": "Mailing address",
-    "same": "Same",
-    "eyeColor": "Eye color",
-    "hairColor": "Hair color",
-    "height": "Height",
-    "feet": "feet",
-    "inches": "inches",
-    "weight": "Weight",
-    "pounds": "pounds",
-    "ssnExplanation": "SSN only showing last 4"
-  },
-  "myHistory": {
-    "title": "My history",
-    "medicalConditions": "Medical conditions",
-    "previousCard": "Previous DL/ID card number",
-    "issuedIn": "Issued in",
-    "previousNames": "Previous names",
-    "drivingRecord": "Driving record",
-    "recordDate": "Record date",
-    "veteran": "Veteran",
-    "getBenefitsInformation": "Get benefit information",
-    "veteranPrintedOnCard": "\"Veteran\" printed on card(s)"
-  },
-  "organDonation": {
-    "title": "Organ dontation",
-    "beAnOrganDonor": "Be an organ donor",
-    "donate": "Donate $2"
-  },
-  "voterRegistration": {
-    "title": "Voter registration",
-    "citizen": "US Citizen",
-    "eligible": "Meets eligibility requirements",
-    "registrationChoice": "Voter registration choice",
-    "choiceYes": "Will be registered",
-    "choiceUpdate": "Update voter preferences",
-    "choiceNo": "Opted out",
-    "policitalParty": "Political party",
-    "ballotLanguage": "Ballot language",
-    "voteByMail": "Vote by mail",
-    "phone": "Phone",
-    "email": "Email"
+    "whatImDoing": {
+      "starter": "I am",
+      "applying": "Applying for the first time",
+      "renewing": "Renewing",
+      "updating": "Updating",
+      "correcting": "Correcting",
+      "replacing": "Replacing",
+      "nothing": "No application started"
+    },
+    "shared": {
+      "expirationDate": "Expiration date"
+    },
+    "prompt": "Please take a minute to review your answers.",
+    "myID": {
+      "title": "My ID",
+      "reducedFeeHeading": "Reduced or no-fee",
+      "seniorIDHeading": "Senior ID",
+      "realIDHeading": "Real ID",
+      "currentCard": "ID card number"
+    },
+    "myDL": {
+      "title": "My Driver License",
+      "needToDriver": {
+        "header": "Need to drive",
+        "values": [
+          "Car (Class C)",
+          "Motorcycle (Class M)",
+          "Housecar, 5th wheel over 15000 pounds, or livestock trailer (Class A)",
+          "Housecar or trailer (Class B)"
+        ]
+      },
+      "firefighterEndorsement": "Firefighter endorsement",
+      "currentCard": "Driver license number"
+    },
+    "myBasics": {
+      "title": "My basics",
+      "homeAddress": "Home address",
+      "mailingAddress": "Mailing address",
+      "same": "Same",
+      "eyeColor": "Eye color",
+      "hairColor": "Hair color",
+      "height": "Height",
+      "feet": "feet",
+      "inches": "inches",
+      "weight": "Weight",
+      "pounds": "pounds",
+      "ssnExplanation": "SSN only showing last 4"
+    },
+    "myHistory": {
+      "title": "My history",
+      "medicalConditions": "Medical conditions",
+      "previousCard": "Previous DL/ID card number",
+      "issuedIn": "Issued in",
+      "previousNames": "Previous names",
+      "drivingRecord": "Driving record",
+      "recordDate": "Record date",
+      "veteran": "Veteran",
+      "getBenefitsInformation": "Get benefit information",
+      "veteranPrintedOnCard": "\"Veteran\" printed on card(s)"
+    },
+    "organDonation": {
+      "title": "Organ dontation",
+      "beAnOrganDonor": "Be an organ donor",
+      "donate": "Donate $2"
+    },
+    "voterRegistration": {
+      "title": "Voter registration",
+      "citizen": "US Citizen",
+      "eligible": "Meets eligibility requirements",
+      "registrationChoice": "Voter registration choice",
+      "choiceYes": "Will be registered",
+      "choiceUpdate": "Update voter preferences",
+      "choiceNo": "Opted out",
+      "policitalParty": "Political party",
+      "ballotLanguage": "Ballot language",
+      "voteByMail": "Vote by mail",
+      "phone": "Phone",
+      "email": "Email"
+    }
   }
 }

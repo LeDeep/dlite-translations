@@ -1,31 +1,33 @@
 {
-  "navigation": {
-     "back": "Back",
-     "next": "Next"
-  },
-  "commonAnswers": {
-    "yes": "Yes",
-    "no": "No",
-    "declineToAnswer": "Decline to answer",
-    "skip": "Skip question",
-    "female": "Female",
-    "male": "Male"
-  },
-  "labels": {
-    "mm": "MM",
-    "dd": "DD",
-    "YYYY": "YYYY",
-    "sex": "Sex",
-    "socialSecurity": "Social security number",
-    "firstName": "First name",
-    "middleName": "Middle name(s)",
-    "lastName": "Last name",
-    "dateOfBirth": "Date of birth",
-    "expirationDate": "Expiration date",
-    "name": "Name"
-  },
-  "summary": {
-    "notProvided": "Not provided",
-    "none": "None"
+  "shared": {
+    "navigation": {
+       "back": "Back",
+       "next": "Next"
+    },
+    "commonAnswers": {
+      "yes": "Yes",
+      "no": "No",
+      "declineToAnswer": "Decline to answer",
+      "skip": "Skip question",
+      "female": "Female",
+      "male": "Male"
+    },
+    "labels": {
+      "mm": "MM",
+      "dd": "DD",
+      "YYYY": "YYYY",
+      "sex": "Sex",
+      "socialSecurity": "Social security number",
+      "firstName": "First name",
+      "middleName": "Middle name(s)",
+      "lastName": "Last name",
+      "dateOfBirth": "Date of birth",
+      "expirationDate": "Expiration date",
+      "name": "Name"
+    },
+    "summary": {
+      "notProvided": "Not provided",
+      "none": "None"
+    }
   }
 }
